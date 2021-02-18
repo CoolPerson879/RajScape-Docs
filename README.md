@@ -5,4 +5,6 @@ Rules:
 - Make sure to give credit to "@CoolPerson879" when you use this
 - That's It!
 
+Make sure to view the original website [here!](https://rajscapedocs.netlify.app)
+
 # Enjoy!
